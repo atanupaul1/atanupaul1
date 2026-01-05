@@ -1,16 +1,15 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Atanu Paul</h1>
+<h3 align="center">Software Developer | ML Enthusiast | Open Source Learner</h3>
 
-<!--
-**atanupaul1/atanupaul1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"><b>Lifelong Learner 💪</b></p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🎓 Integrated MCA student at ICFAI University, Tripura
+- 💡 Interested in Machine Learning, Flutter, and Backend
+- 🛠 Building projects in ML, Web, and Mobile
+- 📫 Reach me at: aatanukrpaul@gmail.com
+
+---
