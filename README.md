@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Atanu+Paul;Software+Developer+%7C+ML+Enthusiast;Open+Source+Learner+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://svg-banners.vercel.app/api?type=luminance&text1=Hi%20I'm%20Atanu%20Paul&width=600&height=100&textColor=%23262250" />
 
 <h3>💻 Software Developer &nbsp;|&nbsp; 🤖 ML Enthusiast &nbsp;|&nbsp; 🌱 Open Source Learner</h3>
 
@@ -27,8 +27,7 @@ Contact : aatanukrpaul@gmail.com
 ```
 
 <br/>
- 
 
-  ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=YOUR_GITHUB_USERNAME.YOUR_GITHUB_USERNAME)
+   ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=YOUR_GITHUB_USERNAME.YOUR_GITHUB_USERNAME)
 
 ---
