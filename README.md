@@ -5,7 +5,7 @@
 <br/>
 <br/>
 
-<em style="font-size:22px;">I'm an enthusiastic Techie and a Developer who loves to contribute to the Open Source Community Community.</em>
+<em style="font-size:22px;">I'm an enthusiastic Techie and a Developer who loves to contribute to the Open Source Community.</em>
 
 <h1 align="center">
   Let's Connect and have a Chat!💬
