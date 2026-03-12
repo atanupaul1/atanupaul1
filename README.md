@@ -51,6 +51,11 @@
 Status  : Open to collaborations & open source
 Contact : aatanukrpaul@gmail.com
 ```
+<h2>🚀 Tech Stack</h2>
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,flutter,js,html,css,tailwind,nextjs,mysql,git,linux" />
+</p>
 
 <br/>
 
